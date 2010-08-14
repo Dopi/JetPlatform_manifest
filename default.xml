@@ -8,13 +8,13 @@
            remote="korg" />
 
   <project path="tools" name="Dopi/JetPlatform_tools" remote="github">
-    <copyfile src="tools/build.sh" dest="build.sh" />
+    <copyfile src="build.sh" dest="build.sh" />
   </project>
 
   <project path="delta" name="Dopi/JetPlatform_delta" remote="github" />
 
   <project path="source/build" name="Dopi/JetPlatform_build" remote="github">
-    <copyfile src="source/core/root.mk" dest="source/Makefile" />
+    <copyfile src="core/root.mk" dest="source/Makefile" />
   </project>
 
   <project path="source/bionic" name="platform/bionic" />
