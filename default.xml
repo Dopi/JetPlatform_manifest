@@ -78,7 +78,6 @@
   <project path="source/packages/apps/GoogleSearch" name="platform/packages/apps/GoogleSearch" />
   <project path="source/packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="source/packages/apps/IM" name="platform/packages/apps/IM" />
-  <project path="source/packages/apps/Launcher" name="platform/packages/apps/Launcher" />
   <project path="source/packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
   <project path="source/packages/apps/Mms" name="platform/packages/apps/Mms" />
   <project path="source/packages/apps/Music" name="platform/packages/apps/Music" />
