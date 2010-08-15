@@ -108,6 +108,8 @@
   <project path="source/packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
 
   <project path="source/external/aes" name="platform/external/aes" />
+  <project path="source/external/alsa-lib" name="Dopi/JetPlatform_external_alsa-lib" remote="github" />
+  <project path="source/external/alsa-utils" name="Dopi/JetPlatform_external_alsa-utils" remote="github" />
   <project path="source/external/apache-http" name="platform/external/apache-http" />
   <project path="source/external/astl" name="platform/external/astl" />
   <project path="source/external/bison" name="platform/external/bison" />
@@ -139,6 +141,7 @@
   <project path="source/external/grub" name="platform/external/grub" />
   <project path="source/external/gtest" name="platform/external/gtest" />
   <project path="source/external/icu4c" name="platform/external/icu4c" />
+  <project path="source/external/iperf-2.0.4" name="Dopi/JetPlatform_external_iperf-2.0.4" remote="github" />
   <project path="source/external/ipsec-tools" name="platform/external/ipsec-tools" />
   <project path="source/external/iptables" name="platform/external/iptables" />
   <project path="source/external/jdiff" name="platform/external/jdiff" />
