@@ -93,6 +93,7 @@
   <project path="source/packages/apps/ADWLauncher" name="Dopi/JetPlatform_packages_apps_launcher" remote="github" />
   <project path="source/packages/apps/Superuser" name="Dopi/JetPlatform_packages_apps_superuser" remote="github" revision="eclair-froyo" />
   <project path="source/packages/apps/Openmanager" name="Dopi/JetPlatform_packages_apps_openmanager" remote="github" revision="master" />
+  <project path="source/packages/apps/JetCalibrate" name="Dopi/JetPlatform_packages_apps_jetcalibrate" remote="github" />
 
   <project path="source/packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" />
   <project path="source/packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" />
@@ -184,6 +185,8 @@
   <project path="source/external/zlib" name="platform/external/zlib" />
 
   <project path="source/vendor/sample" name="platform/vendor/sample" />
+  <project path="source/vendor/sec" name="Dopi/JetPlatform_vendor_sec" remote="github" />
+  <project path="source/vendor/brcm" name="Dopi/JetPlatform_vendor_brcm" remote="github" />
 
   <project path="source/cts" name="platform/cts" />
 </manifest>
