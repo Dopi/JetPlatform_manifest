@@ -90,7 +90,6 @@
   <project path="source/packages/apps/Sync" name="platform/packages/apps/Sync" />
   <project path="source/packages/apps/Updater" name="platform/packages/apps/Updater" />
   <project path="source/packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
-  <!project path="source/packages/apps/ADWLauncher" name="Dopi/JetPlatform_packages_apps_launcher" remote="github" />
   <project path="source/packages/apps/Superuser" name="Dopi/JetPlatform_packages_apps_superuser" remote="github" revision="eclair-froyo" />
   <project path="source/packages/apps/Openmanager" name="Dopi/JetPlatform_packages_apps_openmanager" remote="github" revision="master" />
   <project path="source/packages/apps/JetCalibrate" name="Dopi/JetPlatform_packages_apps_jetcalibrate" remote="github" />
