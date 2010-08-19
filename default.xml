@@ -62,6 +62,7 @@
   <project path="source/packages/providers/UserDictionaryProvider" name="platform/packages/providers/UserDictionaryProvider" />
   <project path="source/packages/providers/WebSearchProvider" name="platform/packages/providers/WebSearchProvider" />
 
+  <project path="source/packages/apps/ADWLauncher" name="Dopi/JetPlatform_packages_apps_launcher" remote="github" />	
   <project path="source/packages/apps/AlarmClock" name="platform/packages/apps/AlarmClock" />
   <project path="source/packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" />
   <project path="source/packages/apps/Browser" name="platform/packages/apps/Browser" />
