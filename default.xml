@@ -85,7 +85,7 @@
   <project path="packages/apps/Updater" name="platform/packages/apps/Updater" />
   <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
   <project path="packages/apps/ADWLauncher" name="dopi/JetPlatform_packages_apps_launcher" remote="github" revision="master" />
-  <project path="packages/apps/Superuser" name="dopi/JetDroid_packages_apps_superuser" remote="github" revision="eclair-froyo" />
+  <project path="packages/apps/Superuser" name="dopi/JetDroid_packages_apps_superuser" remote="github" revision="master" />
   <project path="packages/apps/Openmanager" name="dopi/JetDroid_packages_apps_openmanager" remote="github" />
 
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" />
