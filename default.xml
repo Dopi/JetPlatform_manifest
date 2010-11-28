@@ -34,7 +34,7 @@
 
   <project path="source/hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
   <project path="source/hardware/libhardware" name="platform/hardware/libhardware" />
-  <project path="source/hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" />
+  <project path="source/hardware/libhardware_legacy" name="Dopi/JetPlatform_hardware_libhardware_legacy" remote="github" revision="eclair"/>
   <project path="source/hardware/msm7k" name="platform/hardware/msm7k" />
   <project path="source/hardware/ril" name="platform/hardware/ril" />
   <project path="source/hardware/ti/omap3" name="platform/hardware/ti/omap3" />
