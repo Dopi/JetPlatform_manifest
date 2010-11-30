@@ -120,7 +120,7 @@
   <project path="source/external/bzip2" name="platform/external/bzip2" />
   <project path="source/external/clearsilver" name="platform/external/clearsilver" />
   <project path="source/external/dbus" name="platform/external/dbus" />
-  <project path="source/external/dhcpcd" name="JetPlatform_external_dhcpcd" remote="github" />
+  <project path="source/external/dhcpcd" name="Dopi/JetPlatform_external_dhcpcd" remote="github" />
   <project path="source/external/dosfstools" name="platform/external/dosfstools" />
   <project path="source/external/dropbear" name="platform/external/dropbear" />
   <project path="source/external/e2fsprogs" name="platform/external/e2fsprogs" />
