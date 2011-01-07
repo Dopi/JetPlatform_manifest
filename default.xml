@@ -4,7 +4,7 @@
   <remote name="github" fetch="git://github.com/" review="review.cyanogenmod.com"/>
   <default revision="froyo" remote="korg"/>
 
-  <project path="tools" name="Dopi/JetPlatform_tools" remote="github">
+  <project path="tools" name="JetDroid/JetPlatform_tools" remote="github">
     <copyfile src="build.sh" dest="build.sh" />
   </project>
 
@@ -26,6 +26,7 @@
   <project path="source/device/sample" name="device/sample" revision="b4b6fced74341091180b10529c509a7f2d9327fe"/>
 <project path="source/device/samsung/bmlunlock" name="CyanogenMod/android_device_samsung_bmlunlock" remote="github" revision="916fc164bdc317318c5da27de430c1c3d26ddf07"/>
   <project path="source/device/samsung/spica" name="dh-harald/cm_android_device_samsung_spica" remote="github"/>
+  <project path="source/device/samsung/jet" name="JetDroid/JetPlatform_device_samsung_jet" remote="github"/>
   <project path="source/device/samsung/vibrant" name="CyanogenMod/android_device_samsung_vibrant" remote="github" revision="cc53a085a7288228e88882c4c4e0f5320f3b8dea"/>
   <project path="source/device/yuhua/x2" name="CyanogenMod/android_device_yuhua_x2" remote="github" revision="0e07dd91c29830577741d9e3c3b4f8cbcfb9cec1"/>
 
@@ -206,6 +207,7 @@
 
   <project path="source/vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" revision="056619dbd882257c8407f7008bbabac8a5221088"/>
   <project path="source/vendor/spica" name="dh-harald/cm_android_vendor_spica" remote="github"/>
+  <project path="source/vendor/jet" name="JetDroid/JetPlatform_vendor_jet" remote="github"/>
 
 </manifest>
 

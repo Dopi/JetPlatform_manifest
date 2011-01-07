@@ -16,6 +16,6 @@ To build:
 
     cd source
     . build/envsetup.sh
-    lunch spica-eng
+    lunch jet-eng
     make
 
