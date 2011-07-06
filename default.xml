@@ -14,7 +14,7 @@
   <default revision="gingerbread"
            remote="korg" />
 
-  <project path="build" name="CyanogenMod/android_build" remote="github">
+  <project path="build" name="tom3q/android_build" remote="github">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="bionic" name="CyanogenMod/android_bionic" remote="github" />
@@ -89,6 +89,7 @@
   <project path="device/samsung/galaxys4g" name="CyanogenMod/android_device_samsung_galaxys4g" remote="github" />
   <project path="device/samsung/p7100" name="CyanogenMod/android_device_samsung_p7100" remote="github" />
   <project path="device/samsung/sidekick4g" name="CyanogenMod/android_device_samsung_sidekick4g" remote="github" />
+  <project path="device/samsung/spica" name="tom3q/android_device_samsung_spica" remote="github" />
   <project path="device/samsung/vibrantmtd" name="CyanogenMod/android_device_samsung_vibrantmtd" remote="github" />
   <project path="device/samsung/vzwtab" name="CyanogenMod/android_device_samsung_vzwtab" remote="github" />
   <project path="device/zte/blade" name="CyanogenMod/android_device_zte_blade" remote="github" />
@@ -277,7 +278,7 @@
   <project path="system/vold" name="CyanogenMod/android_system_vold" remote="github" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" remote="github" />
 
-  <project path="vendor/cyanogen" name="CyanogenMod/android_vendor_cyanogen" remote="github" />
+  <project path="vendor/cyanogen" name="tom3q/android_vendor_cyanogen" remote="github" />
   <project path="vendor/qcom/opensource/webkit" name="CyanogenMod/android_vendor_qcom_opensource_webkit" remote="github" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="github" revision="refs/heads/master" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="themes-platform-vendor-tmobile-libs-com.tmobile.themes" remote="themes" revision="refs/heads/master" />
@@ -285,7 +286,8 @@
   <project path="vendor/tmobile/themes/Androidian" name="themes-platform-vendor-tmobile-themes-Androidian" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/themes/Cyanbread" name="themes-platform-vendor-tmobile-themes-Cyanbread" remote="themes" revision="refs/heads/master" />
   <project path="vendor/tmobile/products/themes" name="themes-platform-vendor-tmobile-products-themes" remote="themes" revision="refs/heads/master" />
+  <project path="vendor/openfimg" name="tom3q/openfimg" remote="github" revision="master" />
 
-  <project path="android" name="CyanogenMod/android" remote="github" />
+  <project path="android" name="tom3q/android" remote="github" />
 
 </manifest>
