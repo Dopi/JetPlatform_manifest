@@ -29,6 +29,7 @@
   <project path="device/commtiva/z71" name="CyanogenMod/android_device_commtiva_z71" remote="github" />
   <project path="device/dell/streak7" name="CyanogenMod/android_device_dell_streak7" remote="github" />
   <project path="device/elocity/a7" name="CyanogenMod/android_device_elocity_a7" remote="github" />
+  <project path="device/friendlyarm/tiny6410" name="tom3q/android_device_friendlyarm_tiny6410" remote="github" />
   <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" remote="github" />
   <project path="device/geeksphone/zero" name="CyanogenMod/android_device_geeksphone_zero" remote="github" />
   <project path="device/huawei/ascend" name="CyanogenMod/android_device_huawei_ascend" remote="github" />
