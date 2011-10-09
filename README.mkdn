@@ -12,7 +12,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the CyanogenMod for Spica trees, use a command like this:
 
-    repo init -u git://github.com/Dopi/JetPlatform_manifest.git -b gingerbread-tom3eq
+    repo init -u git://github.com/Dopi/JetPlatform_manifest.git -b gingerbread-tom3q
 
 Then to sync up:
 
