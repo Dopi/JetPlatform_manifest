@@ -1,0 +1,24 @@
+CyanogenMod
+===========
+
+**WARNING**
+Currently, this source tree is intended **only** for internal usage of developers working on CyanogenMod for Spica. No bug reports are being accepted and no technical support is being given.
+
+Getting Started
+---------------
+
+To get started with Android/CyanogenMod, you'll need to get
+familiar with [Git and Repo](http://source.android.com/download/using-repo).
+
+To initialize your local repository using the CyanogenMod for Spica trees, use a command like this:
+
+    repo init -u git://github.com/Dopi/JetPlatform_manifest.git -b gingerbread-tom3eq
+
+Then to sync up:
+
+    repo sync
+
+Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.com/) for building instructions.
+
+For more information on this Github Organization and how it is structured, 
+please [read the wiki article](http://wiki.cyanogenmod.com/index.php/Github_Organization)
