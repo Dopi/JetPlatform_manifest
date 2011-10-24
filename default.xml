@@ -30,7 +30,6 @@
   <project path="device/geeksphone/one" name="CyanogenMod/android_device_geeksphone_one" />
   <project path="device/geeksphone/zero" name="CyanogenMod/android_device_geeksphone_zero" />
   <project path="device/huawei/ascend" name="CyanogenMod/android_device_huawei_ascend" />
-  <project path="device/huawei/ideos" name="CyanogenMod/android_device_huawei_ideos" />
   <project path="device/huawei/u8220" name="CyanogenMod/android_device_huawei_u8220" />
   <project path="device/htc/common" name="CyanogenMod/android_device_htc_common" />
   <project path="device/htc/ace" name="CyanogenMod/android_device_htc_ace" />
@@ -74,6 +73,7 @@
   <project path="device/motorola/jordan" name="CyanogenMod/android_device_motorola_jordan" />
   <project path="device/motorola/morrison" name="CyanogenMod/android_device_motorola_morrison" />
   <project path="device/motorola/motus" name="CyanogenMod/android_device_motorola_motus" />
+  <project path="device/motorola/olympus" name="CyanogenMod/android_device_motorola_olympus" />
   <project path="device/motorola/shadow" name="CyanogenMod/android_device_motorola_shadow" />
   <project path="device/motorola/sholes" name="CyanogenMod/android_device_motorola_sholes" />
   <project path="device/motorola/stingray" name="CyanogenMod/android_device_motorola_stingray" />
@@ -215,7 +215,7 @@
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
   <project path="external/zlib" name="CyanogenMod/android_external_zlib" />
-  <project path="frameworks/base" name="CyanogenMod/android_frameworks_base" />
+  <project path="frameworks/base" name="tom3q/android_frameworks_base" />
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
@@ -228,6 +228,7 @@
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
   <project path="hardware/alsa_sound" name="CyanogenMod/android_hardware_alsa_sound" />
   <project path="hardware/ti/omap3" name="CyanogenMod/android_hardware_ti_omap3" />
+  <project path="hardware/ti/omap3-compat" name="CyanogenMod/android_hardware_ti_omap3-compat" />
   <project path="hardware/ti/omx" name="CyanogenMod/android_hardware_ti_omx" />
   <project path="hardware/ti/syslink" name="CyanogenMod/android_hardware_ti_syslink" />
   <project path="hardware/ti/tiler" name="CyanogenMod/android_hardware_ti_tiler" />
@@ -301,7 +302,7 @@
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
-  <project path="system/su" name="CyanogenMod/android_system_su" revision="master" />
+  <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="system/wlan/ti" name="CyanogenMod/android_system_wlan_ti" />
 
